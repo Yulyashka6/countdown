@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "Oktyabrina";
+  font-weight: 400;
+  font-style: normal;
+  src:local("Oktyabrina"),
+      local("Oktyabrina-script"), 
+      url("../fonts/Oktyabrina-script.woff2") format("woff2"),
+      url("../fonts/Oktyabrina-script.woff") format("woff"), 
+      url("../Fonts/Oktyabrina-script.eot") format("eot");
+  font-display: swap;
+}
+@font-face {
+  font-family: "AubreyPro";
+  font-weight: 400;
+  font-style: normal;
+  src:local("AubreyPro"),
+      local("AubreyPro"), 
+      url("../fonts/AubreyPro.woff2") format("woff2"),
+      url("../fonts/AubreyPro.woff") format("woff"), 
+      url("../Fonts/AubreyPro.eot") format("eot");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Neucha-Regular";
+  font-weight: 400;
+  font-style: normal;
+  src:local("Neucha-Regular"),
+      local("Neucha-Regular"), 
+      url("../fonts/Neucha-Regular.woff2") format("woff2"),
+      url("../fonts/Neucha-Regular.woff") format("woff"), 
+      url("../Fonts/Neucha-Regular.eot") format("eot");
+  font-display: swap;
+}
