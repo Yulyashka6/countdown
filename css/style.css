@@ -42,7 +42,10 @@ body{
   background: url("../icons/Slice5.png") 0 5%/ cover no-repeat;
 }
 
-
+.body__text{
+  color:rgb(201, 24, 74, 0.2);
+  font-size: 20px;
+}
 
 .timer{
   width: 40vw;
